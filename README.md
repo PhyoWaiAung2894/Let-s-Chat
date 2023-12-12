@@ -62,3 +62,9 @@ Testing and Deployment:
 Testing:
 
 -Test the app thoroughly, focusing on user authentication, sending/receiving messages, and real-time updates.
+
+<img src="https://github.com/PhyoWaiAung2894/Let-s-Chat/assets/44761679/72e02e6e-8db1-4d24-bb0a-9c7f7c47734f" alt="Description of Image 1" width="300" height="300">
+<img src="https://github.com/PhyoWaiAung2894/Let-s-Chat/assets/44761679/3c51ec66-28c2-4b92-adf3-7f1bc46a04f5" alt="Description of Image 2" width="300" height="300">
+<img src="https://github.com/PhyoWaiAung2894/Let-s-Chat/assets/44761679/158d8e1b-08a3-4575-ad67-9545609b5365" alt="Description of Image 3" width="300" height="300">
+<img src="https://github.com/PhyoWaiAung2894/Let-s-Chat/assets/44761679/817479ae-230b-46f3-b678-47f9548c855a" alt="Description of Image 4" width="300" height="300">
+
